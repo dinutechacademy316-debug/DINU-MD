@@ -3,7 +3,7 @@
 </a> 
 
 ---
-<h1>THENUWA XMD V1 </h1>
+<h1>DINE MD V1 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
