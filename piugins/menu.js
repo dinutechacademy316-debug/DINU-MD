@@ -55,7 +55,7 @@ cmd(
         }
       }
 
-      let madeMenu = `🤗 *HelloW  ${pushname}*
+      let madeMenu = `🤗 *HelloW FRIENDS  ${pushname}*
 
 > *Welcom To ${config.BOT_NAME} 🎗️*
 
