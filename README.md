@@ -17,7 +17,7 @@
 <div align="center">
 
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbA97wVElagprBAP9W0n)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)]([https://whatsapp.com/channel/0029VbA97wVElagprBAP9W0n](https://whatsapp.com/channel/0029Vb5e2pi7T8baHThTrz2M))
 </div>
 
 
